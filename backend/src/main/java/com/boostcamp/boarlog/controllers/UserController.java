@@ -1,6 +1,5 @@
 package com.boostcamp.boarlog.controllers;
 
-import com.boostcamp.boarlog.dto.lecture.LectureDetailsResDto;
 import com.boostcamp.boarlog.dto.user.UserDetailsResDto;
 import com.boostcamp.boarlog.dto.user.UserModifyReqDto;
 import com.boostcamp.boarlog.dto.user.UserModifyResDto;

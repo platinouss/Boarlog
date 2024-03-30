@@ -16,14 +16,6 @@ public class UserServiceTest {
     void loginFailTest() {}
 
     @Test
-    @DisplayName("회원가입 요청")
-    void registerSuccessTest() {}
-
-    @Test
-    @DisplayName("이미 존재하는 이메일로 회원가입 요청")
-    void registerFailTest() {}
-    
-    @Test
     @DisplayName("유저 정보 가져오기")
     void getUserInfoTest() {}
 

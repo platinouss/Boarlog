@@ -1,4 +1,4 @@
-package com.boostcamp.boarlog.controllers;
+package com.boostcamp.boarlog.controller;
 
 import com.boostcamp.boarlog.dto.lecture.*;
 import io.swagger.v3.oas.annotations.Operation;
